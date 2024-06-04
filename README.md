@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @engrelemenope
+- 👀 I’m interested in ... learning to code in different languages for my course as an ECE student and somehow find a work.
+- 🌱 I’m currently learning ... HTML
+- 📫 How to reach me ... DM me here in Github.
